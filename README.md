@@ -10,3 +10,5 @@ TECNOLOGIAS:
 5-MONGODB
 6-EXPRESS
 7-NODEJS
+
+![CRUD-MERN STACK](https://user-images.githubusercontent.com/85304089/176325098-ac7bc243-6122-4560-8c12-7e956eda3bf1.png)
